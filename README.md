@@ -9,3 +9,9 @@
 5. Check if the user won
 6. Give the user their winnings
 7. Play again
+
+## Advice
+
+To run the code in Terminal, you need to install node.js.
+
+use the command "node project.js" to start the machine.
